@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ejgipson
+- 👀 I’m interested in Convolutional Neural Networks 
+- 🌱 I’m currently learning python
+- 📫 You can reach me at egipson@uwyo.edu
