@@ -1,0 +1,5 @@
+import pymatgen
+from pymatgen.io.vasp.outputs import VSVasprun
+run = BSVasprun(“./vasprun.xml”)
+bs = run.get_band_structure(“./KPOINTS”)
+print(bs.get_band_gap())
