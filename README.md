@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ejgipson
-- 👀 I’m interested in Machine Learning and Computational Material Science
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Computational Material Science
+- 🌱 Everything I've learned about python has been against my will
 - 📫 You can reach me at egipson@uwyo.edu
