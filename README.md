@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @ejgipson
-- 👀 I’m interested in Computational Material Science
-- 🌱 Everything I've learned about python has been against my will
-- 📫 You can reach me at egipson@uwyo.edu
+🌱 Everything I've learned about python has been against my will
+📫 You can reach me at egipson@uwyo.edu
